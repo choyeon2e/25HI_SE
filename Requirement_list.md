@@ -2,7 +2,7 @@
 
 - C111040 김초연
 
-- 개인 깃허브 주소: https://github.com/choyeon2e/25HI_SE.git
+- 개인 깃허브 주소: https://github.com/choyeon2e/25HI_SE
 
 - 개인 코드: 14280
 
